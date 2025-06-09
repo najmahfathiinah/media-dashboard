@@ -10,7 +10,7 @@ Aplikasi ini dikembangkan sebagai solusi untuk studi kasus analisis produk minum
 
 ## Tampilan Dashboard
 
-![Screenshot Dashboard]([URL_SCREENSHOT_ANDA](https://github.com/user-attachments/assets/953227df-03c8-4f4e-bbe7-3479f17444c0))
+![Screenshot Dashboard](https://github.com/user-attachments/assets/953227df-03c8-4f4e-bbe7-3479f17444c0)
 
 ## ✨ Fitur Utama
 - **Upload Data Dinamis:** Memungkinkan pengguna mengunggah dataset CSV mereka sendiri untuk dianalisis secara _real-time_.
@@ -56,14 +56,3 @@ Aplikasi ini dikembangkan sebagai solusi untuk studi kasus analisis produk minum
     ```
 
 ## 📂 Struktur File Proyek
-```
-.
-├── .streamlit/
-│   └── config.toml      # File konfigurasi untuk tema terang/gelap
-├── media_ai_dashboard.py # Skrip utama aplikasi Streamlit
-├── Spirifi.csv          # Dataset default
-├── requirements.txt     # Daftar library Python yang dibutuhkan
-└── README.md            # File dokumentasi ini
-```
----
-*Proyek ini merupakan implementasi dari studi kasus untuk membangun
