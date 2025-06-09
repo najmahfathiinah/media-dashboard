@@ -9,9 +9,8 @@ Aplikasi ini dikembangkan sebagai solusi untuk studi kasus analisis produk minum
 ### **[➡️ Kunjungi Live Demo Aplikasi di Sini](https://1najmahfathiinahr2306164746.streamlit.app/)**
 
 ## Tampilan Dashboard
-*(Disarankan untuk menambahkan screenshot dari dashboard Anda yang sudah jadi di sini)*
 
-![Screenshot Dashboard](URL_SCREENSHOT_ANDA)
+![Screenshot Dashboard]([URL_SCREENSHOT_ANDA](https://github.com/user-attachments/assets/953227df-03c8-4f4e-bbe7-3479f17444c0))
 
 ## ✨ Fitur Utama
 - **Upload Data Dinamis:** Memungkinkan pengguna mengunggah dataset CSV mereka sendiri untuk dianalisis secara _real-time_.
