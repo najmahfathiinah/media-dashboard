@@ -56,6 +56,7 @@ Aplikasi ini dikembangkan sebagai solusi untuk studi kasus analisis produk minum
     ```
 
 ## 📂 Struktur File Proyek
+```
 .
 ├── .streamlit/
 │   └── config.toml      # File konfigurasi untuk tema terang/gelap
@@ -63,3 +64,6 @@ Aplikasi ini dikembangkan sebagai solusi untuk studi kasus analisis produk minum
 ├── Spirifi.csv          # Dataset default
 ├── requirements.txt     # Daftar library Python yang dibutuhkan
 └── README.md            # File dokumentasi ini
+```
+---
+*Proyek ini merupakan implementasi dari studi kasus untuk membangun tool Media Intelligence yang modern dan berbasis data. Dibuat oleh Najmah Fathiinah Ramadhaning.*
