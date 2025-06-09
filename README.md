@@ -1,8 +1,8 @@
-# 🥤 GenZ Drink Media Intelligence Dashboard
+# AI-Powered Media Insights Dashboard
 
-Selamat datang di repositori Proyek Media Intelligence Dashboard. Ini adalah aplikasi web interaktif yang dirancang untuk para profesional media, dibangun untuk mengubah data mentah dari kampanye media sosial menjadi _insight_ strategis yang dapat ditindaklanjuti.
+Selamat datang di repositori Proyek AI-Powered Media Insights Dashboard. Ini adalah aplikasi web interaktif yang dirancang untuk para profesional media, dibangun untuk mengubah data mentah dari kampanye media sosial menjadi _insight_ strategis yang dapat ditindaklanjuti.
 
-Aplikasi ini dikembangkan sebagai solusi untuk studi kasus analisis produk minuman yang menargetkan audiens Gen Z, menggantikan analisis manual yang lambat dengan _dashboard_ dinamis yang ditenagai oleh AI.
+Aplikasi ini dikembangkan sebagai solusi untuk studi kasus analisis produk minuman, menggantikan analisis manual yang lambat dengan _dashboard_ dinamis yang ditenagai oleh AI.
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://1najmahfathiinahr2306164746.streamlit.app/)
 
