@@ -865,9 +865,9 @@ with col3:
 st.markdown("---")
 st.markdown("""
 <div class='footer'>
-    <p><strong>🥤 GenZ Drink Media Intelligence Dashboard</strong></p>
+    <p><strong>AI-Powered Media Insights Dashboard</strong></p>
     <p>Powered by AI • Built for Gen Z Marketing • Data-Driven Decision Making</p>
-    <p>© 2025 - Media Intelligence Dashboard</p>
+    <p>© 2025 - Najmaah Fatninah R</p>
     <p><small>Dashboard Version 2.0 | Last Updated: June 2025</small></p>
 </div>
 """, unsafe_allow_html=True)
