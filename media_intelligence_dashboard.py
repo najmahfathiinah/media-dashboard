@@ -11,7 +11,7 @@ import json
 
 # === PAGE CONFIGURATION ===
 st.set_page_config(
-    page_title="Spirifi Media Intelligence Dashboard",
+    page_title="AI-Powered Media Insights Dashboard",
     page_icon="🌿",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -144,7 +144,7 @@ st.markdown("""
 # === HEADER ===
 st.markdown("""
 <div style='text-align: center; margin-bottom: 30px;'>
-    <h1 style='font-size: 3rem; color: #166534; margin: 0;'>🥤 GenZ Drink Media Intelligence Dashboard</h1>
+    <h1 style='font-size: 3rem; color: #166534; margin: 0;'>AI-Powered Media Insights Dashboard</h1>
     <p style='font-size: 1.2rem; color: #16a34a; margin: 10px 0;'>
         AI-Powered Social Media Analytics for Next-Gen Beverage Campaigns
     </p>
